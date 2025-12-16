@@ -3,6 +3,7 @@ D:\GPP\task2\GPP-Task2-Build-a-Simple-Columnar-File-Format-from-Scratch\src\main
 D:\GPP\task2\GPP-Task2-Build-a-Simple-Columnar-File-Format-from-Scratch\src\main\java\com\columnar\model\FileHeader.java
 D:\GPP\task2\GPP-Task2-Build-a-Simple-Columnar-File-Format-from-Scratch\src\main\java\com\columnar\model\ColumnType.java
 D:\GPP\task2\GPP-Task2-Build-a-Simple-Columnar-File-Format-from-Scratch\src\main\java\com\columnar\writer\ColumnarWriter.java
+D:\GPP\task2\GPP-Task2-Build-a-Simple-Columnar-File-Format-from-Scratch\src\main\java\com\columnar\cli\ColumnarCLI.java
 D:\GPP\task2\GPP-Task2-Build-a-Simple-Columnar-File-Format-from-Scratch\src\main\java\com\columnar\reader\ColumnarReader.java
 D:\GPP\task2\GPP-Task2-Build-a-Simple-Columnar-File-Format-from-Scratch\src\main\java\com\columnar\writer\ColumnSerializer.java
 D:\GPP\task2\GPP-Task2-Build-a-Simple-Columnar-File-Format-from-Scratch\src\main\java\com\columnar\reader\ColumnDeserializer.java

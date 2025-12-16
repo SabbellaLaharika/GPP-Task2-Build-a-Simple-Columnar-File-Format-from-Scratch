@@ -1,2 +1,13 @@
+com\columnar\model\ColumnType.class
+com\columnar\reader\ColumnarReader.class
 com\columnar\writer\ColumnSerializer$1.class
+com\columnar\reader\ColumnDeserializer.class
+com\columnar\writer\ColumnarWriter$ColumnData.class
+com\columnar\writer\ColumnarWriter.class
 com\columnar\reader\ColumnDeserializer$1.class
+com\columnar\compression\CompressionUtil.class
+com\columnar\model\FileHeader.class
+com\columnar\writer\ColumnarWriter$CsvData.class
+com\columnar\writer\ColumnSerializer.class
+com\columnar\cli\ColumnarCLI.class
+com\columnar\model\ColumnSchema.class
